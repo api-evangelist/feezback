@@ -1,0 +1,19 @@
+generated: '2026-07-19'
+method: searched
+source: https://feezback.com/en/
+notes: >-
+  FeezBack publishes no OpenAPI/developer surface, so cross-cutting technical
+  standards cannot be derived from a spec. The entries below capture the
+  compliance / regulatory posture the company states publicly on its site.
+standards:
+  - id: iso27001
+    conforms: true
+    evidence: >-
+      "Protected in accordance with strict industry standards, including ISO
+      27001 certification, ensuring maximum data privacy." — feezback.com/en/
+  - id: open-banking-israel
+    conforms: true
+    evidence: >-
+      Holds a Bank of Israel financial information service provider (AIS)
+      license and payment initiation (PIS) approval, operating under the
+      Israeli Open Banking standard. — feezback.com/en/
